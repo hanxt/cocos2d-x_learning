@@ -1,0 +1,17 @@
+<Solution>
+  <PropertyGroup Name="HelloWord" Version="2.3.1.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="bg.png" />
+        <Image Name="clock.png" />
+        <Image Name="h.png" />
+        <Image Name="m.png" />
+        <Image Name="s.png" />
+        <Project Name="Clock.csd" Type="Node" />
+        <Audio Name="clock.mp3" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
